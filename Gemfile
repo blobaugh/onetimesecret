@@ -5,7 +5,7 @@ source "https://rubygems.org/"
 
 gem 'addressable', '~> 2.2.6'
 gem 'rack', '~> 1.4.5'
-gem 'yajl-ruby', '~> 1.1.0'
+# gem 'yajl-ruby', '~> 1.1.0'
 gem 'thin', '~> 1.5.0'
 
 gem 'mustache', '~> 0.99.3'
@@ -20,7 +20,7 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 
 gem 'otto', '~> 0.4.1'
 
-gem 'redis-dump', '~> 0.3.2'
+# gem 'redis-dump', '~> 0.3.2'
 
 gem 'sysinfo', '~> 0.7.3'
 gem 'annoy', '~> 0.5.6'
